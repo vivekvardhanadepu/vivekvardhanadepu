@@ -26,4 +26,6 @@ Here are some ideas to get you started:
     </p>
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=vivekvardhanadep&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vivekvardhanadepu)](https://github.com/anuraghazra/github-readme-stats)
+
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=vivekvardhanadepu&custom_title=Vicky's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
