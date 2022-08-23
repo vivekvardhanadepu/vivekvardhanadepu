@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at Searce Inc, India as a frontend developer
-- 🌱 I’m currently exploring [typesense](https://typesense.org/), [jinai](https://jina.ai/)
+- 🌱 I’m currently exploring [typesense](https://typesense.org/), [jinai](https://jina.ai/), and [ivy](https://lets-unify.ai/)
 - 👯 I’m looking to collaborate on Sytems, ML, DL projects
 - 💬 Ask me about anything about tech, open source
 
