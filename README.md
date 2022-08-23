@@ -23,8 +23,4 @@
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=vivekvardhanadepu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekvardhanadepu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
- ### 📊 &nbsp;This week I spent my time on
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vivekvardhanadepu)](https://github.com/anuraghazra/github-readme-stats)
-
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=vivekvardhanadepu&custom_title=Vicky's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
