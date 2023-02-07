@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Searce Inc, India as a frontend developer
+- 🔭 I’m currently working at Confluent Inc
 - 🌱 I’m currently exploring [typesense](https://typesense.org/), [jinai](https://jina.ai/), and [ivy](https://lets-unify.ai/)
-- 👯 I’m looking to collaborate on Sytems, ML, DL projects
+- 👯 I’m looking to collaborate on Systems, ML, DL projects
 - 💬 Ask me about anything about tech, open source
 
 ### 🔗 &nbsp;Connect with me
